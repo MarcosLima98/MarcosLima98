@@ -5,6 +5,8 @@
 <br />
 
 <p align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarcosLima98)](https://git.io/streak-stats)
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2lfjc8yfjvsg1dxagzhbuevrx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
