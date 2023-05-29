@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+<br />
+<br />
+
+<p align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2lfjc8yfjvsg1dxagzhbuevrx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+</p>
+
 <!--
 **MarcosLima98/MarcosLima98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
