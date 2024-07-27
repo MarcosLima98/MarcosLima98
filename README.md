@@ -5,7 +5,6 @@
 <br />
 
 <p align="center">
-https://spotify-github-profile.kittinanx.com
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2lfjc8yfjvsg1dxagzhbuevrx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
